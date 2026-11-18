@@ -36,7 +36,7 @@ public class Ejemplo022 {
         }
         System.out.printf("Suma total de los pares: %d\n",acumulador);
         System.out.printf("Multiplicacion total "
-                + "de los pares: %d\n",multiplicador);
+                + "de los impares: %d\n",multiplicador);
     }
 }
 /*
