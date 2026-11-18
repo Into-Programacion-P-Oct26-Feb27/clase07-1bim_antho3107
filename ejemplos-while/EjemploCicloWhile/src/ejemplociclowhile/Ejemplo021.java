@@ -26,8 +26,6 @@ public class Ejemplo021 {
         while (contador <= limite){
             
             if (contador%2!=0) {
-                System.out.printf("Contador %d\n", 
-                    contador);
                 acumulador = acumulador + contador;
             }
             
